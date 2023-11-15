@@ -1,0 +1,39 @@
+#uno-uno {
+    width: 500px;
+    height: 300px;
+    border: solid 2px black;
+}
+
+img[src] {
+    width: 30%;
+}
+
+header {
+    height: 80px;
+    border: solid;
+}
+
+#uno-cuatro {
+    width: 200px;
+    border: solid;
+}
+
+#cuadrado {
+    width: 50%;
+    border: solid;
+}
+
+#uno-cinco {
+    display: flex;
+    border: solid;
+}
+
+#col1 {
+    width: 200px;
+    border: solid;
+}
+
+#col2, #col3 {
+    flex: 1;
+    border: solid;
+}
